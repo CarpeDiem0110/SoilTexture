@@ -13,6 +13,8 @@ Our goal was to design a scalable, efficient, and cost-effective soil classifica
 - Augmented datasets
 - Machine learning & deep learning techniques
 
+- **Note:** You can get more information from Project-Report.docx file about details of project.
+
 ---
 
 ## 📸 Dataset Overview
